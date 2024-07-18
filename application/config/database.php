@@ -77,9 +77,9 @@ $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
 	/**/
-	'username' => 'autovwsn_all_lms_dev',
-	'password' => 'autovista1@3$',
-	'database' => 'autovwsn_all_lms_dev',
+	'username' => 'root',
+	'password' => '',
+	'database' => 'autovwsn_web',
 
 //     'username' => 'autovwsn_web_v2_user',
 // 	'password' => 'autovwsn_web_v2',
